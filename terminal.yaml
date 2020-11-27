@@ -27,8 +27,8 @@ views:
         - "~ ` ´ - _ + = ° © ®"
         - "[ ] { } \\ | ÷ × √"
         - "; : ' \" · € £ ¥"
-        - "Del / ? § π τ µ ¶ BackSpace"
-        - "show_eschars preferences         space        show_letters Return"
+        - "Del / ? § π τ µ ¶"
+        - "show_eschars preferences         space        show_letters  BackSpace Return"
         - "Ctrl Tab ↑ ↓ ← →"
     eschars:
         - "F1 F2 F3 F4 F5 F6 F7 F8 F9 F10 F11 F12"
