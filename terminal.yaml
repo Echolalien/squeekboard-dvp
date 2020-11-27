@@ -10,17 +10,17 @@ outlines:
 
 views:
     base:
-        - "1 2 3 4 5 6 7 8 9 0"
-        - "q w e r t y u i o p"
-        - "a s d f g h j k l"
-        - "Shift_L   z x c v b n m  BackSpace"
+        - "$ & [ { } ( = * ) + ] ! #"
+        - "; , . p y f g c r l /"
+        - "a o e u i d h t n s -"
+        - "Shift_L   ' q j k x b m w v z  BackSpace"
         - "show_symbols show_eschars preferences         space        , . Return"
         - "Ctrl Tab ↑ ↓ ← →"
     upper:
-        - "! @ # $ % ^ & * ( )"
-        - "Q W E R T Y U I O P"
-        - "A S D F G H J K L"
-        - "Shift_L   Z X C V B N M  BackSpace"
+        - "~ % 7 5 3 1 9 0 2 4 6 8 `"
+        - ": < > P Y F G C R L ?"
+        - "A O E U I D H T N S _"
+        - "Shift_L   " Q J K X B M W V Z  BackSpace"
         - "show_symbols show_eschars preferences         space        Menu Return"
         - "Alt Esc PgUp PgDn Home End"
     symbols:
