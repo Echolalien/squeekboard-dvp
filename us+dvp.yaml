@@ -1,6 +1,6 @@
 ---
 outlines:
-    default: { width: 100, height: 100 }
+    default: { width: z0, height: 50 }
     menu: { width: 100, height: 50 }
     altline: { width: 70, height: 50 }
     spaceline: { width: 160, height: 50 }
@@ -14,6 +14,7 @@ views:
         - "g c r l"
         - "a o e u"
         - "q j k x"
+        - "preferences"
 
     upper:
         - "[ { } ( = * ) + ] !"
