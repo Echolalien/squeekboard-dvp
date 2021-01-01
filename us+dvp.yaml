@@ -14,7 +14,7 @@ views:
         - "g c r l"
         - "a o e u"
         - "q j k x"
-        - "Shift_L   preferences         space       show_symbols   BackSpace  Return"
+        - "  preferences "
 
     upper:
         - "[ { } ( = * ) + ] !"
