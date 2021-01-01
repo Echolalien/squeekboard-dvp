@@ -11,17 +11,22 @@ outlines:
 views:
     base:
         - "a n i preferences "
-        - "u o r 1"
+        - "u o_key r 1"
         - "t e s BackSpace"
         - " space Return "
-
-    upper:
-        - "[ { } ("
-        - "G C R L"
-        - "A O E U"
-        - "Q J K preferences "
+    okey:
+        - "t e s preferences "
+        - "p o q 1"
+        - "m x j BackSpace"
+        - " space Return "
 
 buttons:
+    o_Key:
+        action:
+            locking:
+                lock_view: "okey"
+                unlock_view: "base"
+        label: "o"
     Shift_L:
         action:
             locking:
