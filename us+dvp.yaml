@@ -4,7 +4,7 @@ outlines:
     menu: { width: 100, height: 50 }
     altline: { width: 70, height: 50 }
     spaceline: { width: 160, height: 50 }
-    special: { width: 35.33, height: 50 }
+    special: { width: 50, height: 50 }
     action: { width: 85, height: 35 }
     fkey: { width: 42, height: 50 }
 
@@ -13,8 +13,7 @@ views:
         - "7 5 3 1"
         - "g c r l"
         - "a o e u"
-        - "q j k x"
-        - "  preferences "
+        - "q j k preferences "
 
     upper:
         - "[ { } ("
