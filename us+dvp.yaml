@@ -11,7 +11,7 @@ outlines:
 views:
     base:
         - "a n i preferences "
-        - "u o_key r 1"
+        - "u o_Key r 1"
         - "t e s BackSpace"
         - " space Return "
     okey:
