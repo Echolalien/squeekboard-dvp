@@ -1,6 +1,6 @@
 ---
 outlines:
-    default: { width: 150, height: 150 }
+    default: { width: 50, height: 50 }
     menu: { width: 100, height: 50 }
     altline: { width: 70, height: 50 }
     spaceline: { width: 160, height: 50 }
