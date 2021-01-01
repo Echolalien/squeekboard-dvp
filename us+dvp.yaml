@@ -11,21 +11,22 @@ outlines:
 views:
     base:
         - "a n i preferences "
-        - "u o_Key r 1"
+        - "u Shift_O r 1"
         - "t e s BackSpace"
         - " space Return "
-    okey:
+    oKey:
         - "t e s preferences "
         - "p o q 1"
         - "m x j BackSpace"
         - " space Return "
 
 buttons:
-    o_Key:
+    Shift_O:
         action:
             locking:
-                lock_view: "okey"
+                lock_view: "oKey"
                 unlock_view: "base"
+        outline: "altline"
         label: "o"
     Shift_L:
         action:
