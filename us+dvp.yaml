@@ -21,8 +21,7 @@ views:
         - "G C R L"
         - "A O E U"
         - "Q J K X"
-        - "Shift_L   preferences         space       show_symbols   BackSpace  Return"
-        - "Alt Esc PgUp PgDn Home End"
+        - " preferences "
 
 buttons:
     Shift_L:
