@@ -17,25 +17,11 @@ views:
         - "  preferences "
 
     upper:
-        - "[ { } ( = * ) + ] !"
-        - "_ < > P Y F G C R L"
-        - "A O E U I D H T N S"
-        - "Q J K X B M W V Z \\"
+        - "[ { } ("
+        - "G C R L"
+        - "A O E U"
+        - "Q J K X"
         - "Shift_L   preferences         space       show_symbols   BackSpace  Return"
-        - "Alt Esc PgUp PgDn Home End"
-    symbols:
-        - "~ ` ´ - _ + = ° © ®"
-        - "[ ] { } \\ | ÷ × √"
-        - "; : ' \" · € £ ¥"
-        - "Del / ? § π τ µ ¶"
-        - "show_eschars preferences         space        show_letters  BackSpace Return"
-        - "Ctrl Tab ↑ ↓ ← →"
-    eschars:
-        - "F1 F2 F3 F4 F5 F6 F7 F8 F9 F10 F11 F12"
-        - "ä è é ö ü Ä È É Ö Ü"
-        - "à â ê î ô À Â Ê Î Ô"
-        - "Del  « » ç Ç æ œ ß  BackSpace"
-        - "show_symbols show_eschars preferences         space        „ “ Return"
         - "Alt Esc PgUp PgDn Home End"
 
 buttons:
