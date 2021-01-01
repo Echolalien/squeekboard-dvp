@@ -10,17 +10,16 @@ outlines:
 
 views:
     base:
-        - "7 5 3 1"
-        - "g c r l"
-        - "a o e u"
-        - "q j k preferences "
+        - "a n i preferences "
+        - "u o r 1"
+        - "t e s BackSpace"
+        - " space Return "
 
     upper:
         - "[ { } ("
         - "G C R L"
         - "A O E U"
-        - "Q J K X"
-        - " preferences "
+        - "Q J K preferences "
 
 buttons:
     Shift_L:
