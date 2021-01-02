@@ -67,7 +67,7 @@ buttons:
                 lock_view: "aKey"
                 unlock_view: "base"
         outline: "special"
-        label: "a   \n   v"
+        label: "a\n\tv"
     Shift_N:
         action:
             locking:
@@ -140,7 +140,7 @@ buttons:
         outline: "action"
         label: "Alt"
     BackSpace:
-        outline: "altline"
+        outline: "special"
         icon: "edit-clear-symbolic"
         action: "erase"
     Menu:
