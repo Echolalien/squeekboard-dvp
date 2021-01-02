@@ -25,39 +25,39 @@ views:
         - ". . . BackSpace"
         - " space Return "
     iKey:
-        - ". . . preferences "
-        - ". . . Shift_I"
+        - ". . i preferences "
+        - ". x . Shift_I"
         - ". . . BackSpace"
         - " space Return "
     uKey:
         - ". . . preferences "
-        - ". . . Shift_U"
+        - "u k . Shift_U"
         - ". . . BackSpace"
         - " space Return "
     oKey:
-        - ". . . preferences "
-        - ". . . Shift_O"
-        - ". . . BackSpace"
+        - "q h p preferences "
+        - "c o b Shift_O"
+        - "g d j BackSpace"
         - " space Return "
     rKey:
         - ". . . preferences "
-        - ". . . Shift_R"
+        - ". m r Shift_R"
         - ". . . BackSpace"
         - " space Return "
     tKey:
         - ". . . preferences "
-        - ". . . Shift_T"
-        - ". . . BackSpace"
+        - ". y . Shift_T"
+        - "t . . BackSpace"
         - " space Return "
     eKey:
         - ". . . preferences "
-        - ". . . Shift_E"
-        - ". . . BackSpace"
+        - ". w . Shift_E"
+        - ". e . BackSpace"
         - " space Return "
     sKey:
         - ". . . preferences "
-        - ". . . Shift_S"
-        - ". . . BackSpace"
+        - ". f . Shift_S"
+        - ". . s BackSpace"
         - " space Return "
 
 buttons:
