@@ -95,7 +95,7 @@ buttons:
                 lock_view: "oKey"
                 unlock_view: "base"
         outline: "altline"
-        label: "o"
+        label: "qhp\nuor\ntes"
     Shift_R:
         action:
             locking:
