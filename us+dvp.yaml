@@ -67,7 +67,7 @@ buttons:
                 lock_view: "aKey"
                 unlock_view: "base"
         outline: "special"
-        label: "a\n\tv"
+        label: "a"
     Shift_N:
         action:
             locking:
@@ -95,7 +95,7 @@ buttons:
                 lock_view: "oKey"
                 unlock_view: "base"
         outline: "special"
-        label: "qhp\ncob\ngdj"
+        label: "o"
     Shift_R:
         action:
             locking:
