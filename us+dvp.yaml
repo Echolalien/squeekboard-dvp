@@ -10,17 +10,64 @@ outlines:
 
 views:
     base:
-        - "a n i preferences "
+        - "Shift_A n i preferences "
         - "u Shift_O r 1"
         - "t e s BackSpace"
         - " space Return "
+    aKey:
+        - "a - ; preferences "
+        - ". v , Shift_A"
+        - ": ' ~ BackSpace"
+        - " space Return "
+    nKey:
+        - "q h p preferences "
+        - "c o b Shift_O"
+        - "g d j BackSpace"
+        - " space Return "
+    iKey:
+        - "q h p preferences "
+        - "c o b Shift_O"
+        - "g d j BackSpace"
+        - " space Return "
+    uKey:
+        - "q h p preferences "
+        - "c o b Shift_O"
+        - "g d j BackSpace"
+        - " space Return "
     oKey:
-        - "t e s preferences "
-        - "p o q Shift_O"
-        - "m x j BackSpace"
+        - "q h p preferences "
+        - "c o b Shift_O"
+        - "g d j BackSpace"
+        - " space Return "
+    rKey:
+        - "q h p preferences "
+        - "c o b Shift_O"
+        - "g d j BackSpace"
+        - " space Return "
+    tKey:
+        - "q h p preferences "
+        - "c o b Shift_O"
+        - "g d j BackSpace"
+        - " space Return "
+    eKey:
+        - "q h p preferences "
+        - "c o b Shift_O"
+        - "g d j BackSpace"
+        - " space Return "
+    sKey:
+        - "q h p preferences "
+        - "c o b Shift_O"
+        - "g d j BackSpace"
         - " space Return "
 
 buttons:
+    Shift_A:
+        action:
+            locking:
+                lock_view: "aKey"
+                unlock_view: "base"
+        outline: "altline"
+        label: "a"
     Shift_O:
         action:
             locking:
