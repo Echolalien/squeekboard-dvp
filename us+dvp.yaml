@@ -2,9 +2,9 @@
 outlines:
     default: { width: 50, height: 50 }
     menu: { width: 50, height: 50 }
-    altline: { width: 50, height: 50 }
+    altline: { width: 50, height: 30 }
     spaceline: { width: 150, height: 30 }
-    special: { width: 50, height: 30 }
+    special: { width: 50, height: 50 }
     action: { width: 50, height: 50 }
     fkey: { width: 50, height: 50 }
 
@@ -66,70 +66,70 @@ buttons:
             locking:
                 lock_view: "aKey"
                 unlock_view: "base"
-        outline: "altline"
+        outline: "special"
         label: "a   \n   v"
     Shift_N:
         action:
             locking:
                 lock_view: "nKey"
                 unlock_view: "base"
-        outline: "altline"
+        outline: "special"
         label: "n"
     Shift_I:
         action:
             locking:
                 lock_view: "iKey"
                 unlock_view: "base"
-        outline: "altline"
+        outline: "special"
         label: "i"
     Shift_U:
         action:
             locking:
                 lock_view: "uKey"
                 unlock_view: "base"
-        outline: "altline"
+        outline: "special"
         label: "u"
     Shift_O:
         action:
             locking:
                 lock_view: "oKey"
                 unlock_view: "base"
-        outline: "altline"
+        outline: "special"
         label: "qhp\ncob\ngdj"
     Shift_R:
         action:
             locking:
                 lock_view: "rKey"
                 unlock_view: "base"
-        outline: "altline"
+        outline: "special"
         label: "r"
     Shift_T:
         action:
             locking:
                 lock_view: "tKey"
                 unlock_view: "base"
-        outline: "altline"
+        outline: "special"
         label: "t"
     Shift_E:
         action:
             locking:
                 lock_view: "eKey"
                 unlock_view: "base"
-        outline: "altline"
+        outline: "special"
         label: "e"
     Shift_S:
         action:
             locking:
                 lock_view: "sKey"
                 unlock_view: "base"
-        outline: "altline"
+        outline: "special"
         label: "s"
     Shift_L:
         action:
             locking:
                 lock_view: "upper"
                 unlock_view: "base"
-        outline: "altline"
+        outline: "special"
         icon: "key-shift"
     Ctrl:
         modifier: "Control"
@@ -172,7 +172,7 @@ buttons:
         label: " "
         text: " "
     Return:
-        outline: "special"
+        outline: "altline"
         icon: "key-enter"
         keysym: "Return"
     F1:
