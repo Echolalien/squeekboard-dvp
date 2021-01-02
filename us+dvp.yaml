@@ -3,8 +3,8 @@ outlines:
     default: { width: 50, height: 50 }
     menu: { width: 50, height: 50 }
     altline: { width: 50, height: 50 }
-    spaceline: { width: 150, height: 50 }
-    special: { width: 50, height: 50 }
+    spaceline: { width: 150, height: 30 }
+    special: { width: 50, height: 30 }
     action: { width: 50, height: 50 }
     fkey: { width: 50, height: 50 }
 
@@ -95,7 +95,7 @@ buttons:
                 lock_view: "oKey"
                 unlock_view: "base"
         outline: "altline"
-        label: "qhp\nuor\ntes"
+        label: "qhp\ncob\ngdj"
     Shift_R:
         action:
             locking:
@@ -172,7 +172,7 @@ buttons:
         label: " "
         text: " "
     Return:
-        outline: "altline"
+        outline: "special"
         icon: "key-enter"
         keysym: "Return"
     F1:
