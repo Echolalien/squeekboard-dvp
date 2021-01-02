@@ -67,7 +67,7 @@ buttons:
                 lock_view: "aKey"
                 unlock_view: "base"
         outline: "altline"
-        label: "a"
+        label: "a \n . v"
     Shift_N:
         action:
             locking:
