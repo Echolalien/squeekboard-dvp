@@ -10,9 +10,9 @@ outlines:
 
 views:
     base:
-        - "Shift_A Shift_N i preferences "
-        - "u Shift_O r 1"
-        - "t e s BackSpace"
+        - "Shift_A Shift_N Shift_I preferences "
+        - "Shift_U Shift_O Shift_R 1"
+        - "Shift_T Shift_E Shift_S BackSpace"
         - " space Return "
     aKey:
         - "a . . preferences "
@@ -26,12 +26,12 @@ views:
         - " space Return "
     iKey:
         - ". . . preferences "
-        - ". . . Shift_O"
+        - ". . . Shift_I"
         - ". . . BackSpace"
         - " space Return "
     uKey:
         - ". . . preferences "
-        - ". . . Shift_O"
+        - ". . . Shift_U"
         - ". . . BackSpace"
         - " space Return "
     oKey:
@@ -41,22 +41,22 @@ views:
         - " space Return "
     rKey:
         - ". . . preferences "
-        - ". . . Shift_O"
+        - ". . . Shift_R"
         - ". . . BackSpace"
         - " space Return "
     tKey:
         - ". . . preferences "
-        - ". . . Shift_O"
+        - ". . . Shift_T"
         - ". . . BackSpace"
         - " space Return "
     eKey:
         - ". . . preferences "
-        - ". . . Shift_O"
+        - ". . . Shift_E"
         - ". . . BackSpace"
         - " space Return "
     sKey:
         - ". . . preferences "
-        - ". . . Shift_O"
+        - ". . . Shift_S"
         - ". . . BackSpace"
         - " space Return "
 
