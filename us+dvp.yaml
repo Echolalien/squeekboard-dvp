@@ -11,7 +11,7 @@ outlines:
 views:
     base:
         - "Shift_A Shift_N Shift_I preferences "
-        - "Shift_U Shift_O Shift_R 1"
+        - "Shift_U Shift_O Shift_R show_num"
         - "Shift_T Shift_E Shift_S BackSpace"
         - " space Return "
     aKey:
@@ -59,6 +59,11 @@ views:
         - ". f . Shift_S"
         - ". . s BackSpace"
         - " space Return "
+    num:
+        - "1 2 3 preferences "
+        - "4 5 6 show_num"
+        - "7 8 9 BackSpace"
+        - " 0 Return "
 
 buttons:
     Shift_A:
@@ -167,6 +172,13 @@ buttons:
                 unlock_view: "base"
         outline: "altline"
         label: "func"
+    show_num:
+        action:
+            locking:
+                lock_view: "num"
+                unlock_view: "base"
+        outline: "special"
+        label: "123"
     space:
         outline: "spaceline"
         label: " "

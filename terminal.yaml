@@ -26,7 +26,7 @@ views:
     symbols:
         - "~ ` ´ - _ + = ° © ®"
         - "[ ] { } \\ | ÷ × √"
-        - "; : ' \" · € £ ¥"
+        - "; : ' \" · € £ ¥ ^"
         - "Del / ? § π τ µ ¶"
         - "show_eschars preferences         space        show_letters  BackSpace Return"
         - "Ctrl Tab ↑ ↓ ← →"
